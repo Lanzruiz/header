@@ -1,0 +1,12 @@
+enc_des.o: enc_des.c ../config.h ../confpaths.h /usr/include/paths.h \
+  /usr/include/sys/paths.h /usr/include/sys/appleapiopts.h
+
+../config.h:
+
+../confpaths.h:
+
+/usr/include/paths.h:
+
+/usr/include/sys/paths.h:
+
+/usr/include/sys/appleapiopts.h:

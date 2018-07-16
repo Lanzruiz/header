@@ -1,0 +1,12 @@
+kerberos5.o: kerberos5.c ../config.h ../confpaths.h /usr/include/paths.h \
+  /usr/include/sys/paths.h /usr/include/sys/appleapiopts.h
+
+../config.h:
+
+../confpaths.h:
+
+/usr/include/paths.h:
+
+/usr/include/sys/paths.h:
+
+/usr/include/sys/appleapiopts.h:

@@ -1,0 +1,27 @@
+stripslash.o: stripslash.c ../config.h ../confpaths.h \
+  /usr/include/paths.h /usr/include/sys/paths.h \
+  /usr/include/sys/appleapiopts.h dirname.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include/stdbool.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include/stddef.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include/__stddef_max_align_t.h \
+  dosname.h
+
+../config.h:
+
+../confpaths.h:
+
+/usr/include/paths.h:
+
+/usr/include/sys/paths.h:
+
+/usr/include/sys/appleapiopts.h:
+
+dirname.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include/stdbool.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include/stddef.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include/__stddef_max_align_t.h:
+
+dosname.h:

@@ -1,0 +1,17 @@
+xasprintf.o: xasprintf.c ../config.h ../confpaths.h /usr/include/paths.h \
+  /usr/include/sys/paths.h /usr/include/sys/appleapiopts.h xvasprintf.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include/stdarg.h
+
+../config.h:
+
+../confpaths.h:
+
+/usr/include/paths.h:
+
+/usr/include/sys/paths.h:
+
+/usr/include/sys/appleapiopts.h:
+
+xvasprintf.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include/stdarg.h:
